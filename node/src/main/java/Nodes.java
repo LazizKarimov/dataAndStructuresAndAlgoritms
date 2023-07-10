@@ -1,3 +1,5 @@
+package node.src.main.java;
+
 public class Nodes {
     private Nodes() {
     }

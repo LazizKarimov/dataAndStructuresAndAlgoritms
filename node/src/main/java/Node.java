@@ -1,9 +1,9 @@
-
+package node.src.main.java;
 
 public class Node<T> {
     // todo:
-    T element;
-    Node<T> next;
+    public T element;
+    public Node<T> next;
 
     public Node (){
 
